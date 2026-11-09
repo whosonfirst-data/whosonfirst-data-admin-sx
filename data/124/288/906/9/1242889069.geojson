@@ -37,7 +37,7 @@
         "gn:id":6620257
     },
     "wof:country":"SX",
-    "wof:geomhash":"2a4f244537b8197e5358997b90374bbb",
+    "wof:geomhash":"871e85c32eef657fafd88faeea644c1a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,5 +62,5 @@
     -63.01538000000001,
     18.05576
 ],
-  "geometry": {"coordinates":[-63.01538000000001,18.05576],"type":"Point"}
+  "geometry": {"coordinates":[-63.01538,18.05576],"type":"Point"}
 }
