@@ -1,0 +1,72 @@
+{
+  "id": 9895057838,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.06041,18.03517,-63.06041,18.03517",
+    "geom:latitude":18.03517,
+    "geom:longitude":-63.06041,
+    "iso:country":"SX",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13535831: name \"Phillipsburg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13535831"
+        },
+        {
+            "citation":"GeoNames populated place 13535831: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13535831"
+        },
+        {
+            "citation":"GeoNames populated place 13535831: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13535831"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85678229 (Sint Maarten), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632185,
+        85678229,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13535831
+    },
+    "wof:country":"SX",
+    "wof:geomhash":"f806258a0445c5f265cc339d435ba02a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632185,
+            "locality_id":9895057838,
+            "region_id":85678229
+        }
+    ],
+    "wof:id":9895057838,
+    "wof:lastmodified":1795735265,
+    "wof:name":"Phillipsburg",
+    "wof:parent_id":85678229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sx",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.06041,
+    18.03517,
+    -63.06041,
+    18.03517
+],
+  "geometry": {"coordinates":[-63.06041,18.03517],"type":"Point"}
+}
